@@ -1,1 +1,2 @@
-# csug-csc400-m6ct-opt1
+# Custom Linked List
+This Java program provides a custom implementation of a linked list, including methods for inserting and deleting elements, as well as iterating through the list. It also implements a test class to demonstrate its functionalities by creating two linked lists and using them to insert and delete integer data, in addition to importing some of the data from a specified text file to a linked list.
